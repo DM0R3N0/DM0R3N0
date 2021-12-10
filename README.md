@@ -5,6 +5,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DM0R3N0)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/259704/dm0r3n0)
 [![Blog](https://img.shields.io/website?label=Dannes.com.br&style=for-the-badge&url=https://www.dannes.com.br/)](https://www.dannes.com.br)
+[![Blog](https://img.shields.io/website?label=Dannes.com.br&style=for-the-badge&url=https://play.google.com/store/apps/dev?id=4870137427460616845/)](https://play.google.com/store/apps/dev?id=4870137427460616845)
+
 
 
 
